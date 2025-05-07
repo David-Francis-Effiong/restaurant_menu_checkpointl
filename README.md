@@ -5,7 +5,7 @@ elements like headings, paragraphs, lists, and links.
 
 ## specifications
 
-- Title inserted (Befull Restaurant Menu) using the <h1> tag.
+- Title inserted (Befull Restaurant Menu) using the h1 tag.
 - Headings for each menu section (appetizers, main courses, desserts) were added.
 - At least 4 items with their names and brief descriptions were added under each heading.
 - I used an unordered list for each section of the menu.
